@@ -1,0 +1,7 @@
+:root {
+    --primary-color: #0000EC;
+    --secondary-color: #00F3BB;
+}
+@import url('header.css');
+@import url('main.css');
+@import url('footer.css');
